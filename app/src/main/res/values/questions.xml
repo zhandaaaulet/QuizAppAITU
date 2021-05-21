@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>Encapsulation is not about hiding data</item>
+        <item>An abstract class can create objects</item>
+        <item>Casting is divided into two types such as Upcast and Downcast</item>
+        <item>When we bring something specific to something more general it is called DownCast</item>
+    </string-array>
+    <string-array name="answers">
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+</resources>
